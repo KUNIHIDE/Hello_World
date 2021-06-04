@@ -11,5 +11,6 @@ public class HELLOWORLD {
         System.out.println("v3");
         System.out.println("hot-fix master v2");
         System.out.println("hot-fix v2");
+        System.out.println("push test");
     }
 }
